@@ -32,7 +32,7 @@ Cenário 2: Pergunta sobre os próprios gastos
 
 Usuário : "Onde estou gastando mais"
 
-By SilvioCruz: "Olhando suas transações de novembro sua maior despesa é cartão de crédito R$3.000,00, seguido de aluguel R$ 1.200,00, que representam quase 80 % dos seus gastos. Isso é bem comum! Quer eu explique algumas estratégia de organização!
+By SilvioCruz: "Olhando suas transações de novembro sua maior despesa com moradia R$1.380,00, seguido de aluguel R$570,00, que representam quase 80 % dos seus gastos. Isso é bem comum! Quer eu explique algumas estratégia de organização!
 
 ---
 
