@@ -33,7 +33,7 @@ Crie testes simples para validar seu agente:
 
 ### Teste 2: Recomendação de produto
 - **Pergunta:** "Qual investimento você recomenda para mim?"
-- **Resposta esperada:** Produto compatível com o perfil do cliente
+- **Resposta esperada:**R$570,00** Produto compatível com o perfil do cliente
 - **Resultado:** [ ] Correto  [ ] Incorreto
 
 ### Teste 3: Pergunta fora do escopo
